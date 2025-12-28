@@ -1,3 +1,7 @@
 1: This is the beginning of a simple story.
+<<<<<<< HEAD
+2: leon is learning to use git workflow here
+=======
 2: another change for task04
+>>>>>>> origin/main
 3: This is the end of the story.
