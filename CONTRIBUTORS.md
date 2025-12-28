@@ -13,4 +13,5 @@ This file lists the people who have completed the practice tasks. To add yoursel
 Add your own entry below this comment and open a pull request via the instructions in `tasks/01-add-yourself.md`.
 
 - [februarysea](https://github.com/februarysea)
+- [LuHaotian-UCL](https://github.com/LuHaotian-UCL)
 - [jingmiao7](https://github.com/jingmiao7)
